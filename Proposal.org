@@ -1,0 +1,49 @@
+#+title: Emacs and Advanced Tools in Unix
+* Traditional Proposal						   :noexport:
++ Overview
++ Introduction
++ Research
++ Recommendation
++ Conclusion 
+
+* Overview
+The purpose of this course is to allow students to build and experience an
+environment that increases workflow and is tailored to the needs of the
+individual. Topics and material that will be covered in this course will include
+the tools computer scientists used daily and how to adapt to new,
+innovative tools. These tools include the Unix command-line, Emacs and Vim
+text-editors, Git version control system, LaTeX typesetting system, and Shell
+scripting. Not only will the students learn how to use these tools, but practice
+using them in meaningful projects and assignments that will carry with them past
+the course and in their day to day lives as computer scientists.
+* EATU in detail
+The Primary focus of this course will to be using the GNU Emacs text editor to
+complete various tasks that would normally require multiple environments and
+work-spaces. Emacs is a powerful tool that goes beyond simple text editing for
+various languages. In this course students will learn to use Emacs as a word
+processor, interactive presentation display manager, excel-like spreadsheet
+manager, organization tool, extended Git version controller, and programming
+environment for all programming languages. In learning to use them students will
+also learn other Unix tools such as Git and shell scripting.
+
+
+* Schedule Outline
+| Week # | Content/Materials                        |
+|--------+------------------------------------------|
+|      1 | Emacs basics, Using the cmd line         |
+|      2 | Vim basics, Setting up a Git repo        |
+|      3 | Emacs customizing and package installing |
+|      4 | Org-mode, LaTeX, Shell Scripting         |
+|      5 | More customization, Org-mode continued   |
+|      6 |                                          |
+|      7 |                                          |
+|      8 |                                          |
+|      9 |                                          |
+|     10 |                                          |
+|     11 |                                          |
+|     12 |                                          |
+|     13 |                                          |
+|     14 |                                          |
+|     15 |                                          |
+* Projects/Assignments
+* Conclusion
