@@ -25,25 +25,23 @@ processor, interactive presentation display manager, excel-like spreadsheet
 manager, organization tool, extended Git version controller, and programming
 environment for all programming languages. In learning to use them students will
 also learn other Unix tools such as Git and shell scripting.
-
-
 * Schedule Outline
-| Week # | Content/Materials                        |
-|--------+------------------------------------------|
-|      1 | Emacs basics, Using the cmd line         |
-|      2 | Vim basics, Setting up a Git repo        |
-|      3 | Emacs customizing and package installing |
-|      4 | Org-mode, LaTeX, Shell Scripting         |
-|      5 | More customization, Org-mode continued   |
-|      6 |                                          |
-|      7 |                                          |
-|      8 |                                          |
-|      9 |                                          |
-|     10 |                                          |
-|     11 |                                          |
-|     12 |                                          |
-|     13 |                                          |
-|     14 |                                          |
-|     15 |                                          |
+| Week # | Content/Materials                                     | Exercises                                                           |
+|--------+-------------------------------------------------------+---------------------------------------------------------------------|
+|      0 | Intro to Editors: ed, vi/vim, Emacs, third party      | ed exercise, discussion about editors as tools and the ideal editor |
+|      1 | Vim basics, Using the cmd line                        | Emacs copy/paste exercise                                           |
+|      2 | Emacs basics, Setting up a Git repo                   | Creating first repo for version controlling configuration           |
+|      3 | Emacs customizing and package installing              | Using menus and installing first package in Emacs                   |
+|      4 | Org-mode, LaTeX, Shell Scripting                      | HW: Math review Exported to Latex                                   |
+|      5 | More customization, Org-mode continued                | Introduce Presentation assignments                                  |
+|      6 | Using Latex in an IDE, Midterm review                 |                                                                     |
+|      7 | MidTerm on Emacs commands, git, latex, cmd            |                                                                     |
+|      8 | Presentation Day 1                                    |                                                                     |
+|      9 |                                                       |                                                                     |
+|     10 | Break                                                 |                                                                     |
+|     11 | Presentation Day 2                                    |                                                                     |
+|     12 |                                                       |                                                                     |
+|     13 |                                                       |                                                                     |
+|     14 | Discussion Day: thoughts and feedback, other comments | Final Project Due                                                   |
 * Projects/Assignments
 * Conclusion
