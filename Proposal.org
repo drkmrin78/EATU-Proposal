@@ -47,7 +47,7 @@ with the Emacs content so that they can 1) see the tools in action and 2) begin
 to build a customized work environment that is tailored to their needs. 
 
 Git will be used to version control their configuration. In learning this,
-students will have the knowledge to version control with git for any project in
+students will gain the knowledge to effect version control with git for any project in
 the future. Version control is a vital tool to use in the real world, especially
 when working in a team setting.  
 
@@ -64,7 +64,7 @@ Toward the end of the course, students will be required to present a package
 that they have used in their workflow that they have enjoyed. In their
 presentation they will be require to used the 'demo-it' package that is used to
 develop interactive presentations. The same file they use to write their
-descriptions, code, and spread sheets will be automatically turned into a slide
+descriptions, code, and spreadsheets will be automatically turned into a slide
 show, where they will learn to add interactive shells and buffers. Learning to
 create a presentation in this manner makes it really easy, fast, and keeps
 everything organized. 
