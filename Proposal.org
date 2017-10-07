@@ -58,7 +58,7 @@
    learning the organization tool, Org-mode, in Emacs. The reason for teaching
    these together is so that students can learn how to rapidly test and document
    their code and scripts in a highly efficient environment. 
-
+   
 * Assignments
 ** Assignment Purposes
    The students will have three short writing assignments that will be due in
@@ -79,7 +79,7 @@
    that they have used in their workflow that they have enjoyed. In their
    presentation they will be require to used the 'demo-it' package that is used to
    develop interactive presentations. The same file they use to write their
-   descriptions, code, and spread sheets will be automatically turned into a slide
+   descriptions, code, and spreadsheets will be automatically turned into a slide
    show, where they will learn to add interactive shells and buffers. Learning to
    create a presentation in this manner makes it really easy, fast, and keeps
    everything organized. 
