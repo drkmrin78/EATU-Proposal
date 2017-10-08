@@ -1,4 +1,7 @@
 #+title: Emacs and Advanced Tools in Unix
+#+author: Drake M. Petersen and Brian knuth
+#+options: toc:nil num:nil
+#+latex_header: \usepackage[top=1in, bottom=1in, left=1.25in, right=1.25in]{geometry} 
 * Traditional Proposal						   :noexport:
 + Overview
 + Introduction
@@ -105,10 +108,11 @@
   have the confidence in their tools and themselves to be great computer
   scientists.
 
+
 * Schedule Outline
 | Week # | Content/Materials                                     | Exercises                                                           |
 |--------+-------------------------------------------------------+---------------------------------------------------------------------|
-|      0 | Intro to Edito,                                        | ed exercise, discussion about editors as tools and the ideal editor |
+|      0 | Intro to Editor, Syllabus, Plagiarism                 | ed exercise, discussion about editors as tools and the ideal editor |
 |      1 | Vim basics, Using the cmd line                        | Vim copy/paste exercise                                             |
 |      2 | Intro to Emacs                                        | Emacs exercise                                                      |
 |      3 | Emacs customizing and packages, Setting up a Git repo | Creating first repo for version controlling configuration           |
